@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+*.log
+backend/data/concrete_crack_images/
+backend/data/*.rar
+backend/data/*.zip
+backend/models/*.pth
+frontend/node_modules/
+frontend/dist/
